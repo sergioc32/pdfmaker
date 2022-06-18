@@ -1,0 +1,18 @@
+{
+  "name": "pdfgenerationtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pdftest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "http": "0.0.1-security",
+    "nodemon": "^2.0.15",
+    "pdfmake": "^0.2.4"
+  }
+}
